@@ -1,0 +1,73 @@
+/** @format */
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.center-x {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#primaryElement {
+  font-family: Arial, sans-serif;
+  color: blue;
+  padding: 10px;
+}
+
+.forClass {
+  font-size: 18px;
+  color: green;
+  margin: 10px 0;
+}
+
+.mySelect {
+  background-color: lightyellow;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.newElement {
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+.paragrafo-adicional {
+  font-style: italic;
+  color: purple;
+}
+
+.novoParagrafo {
+  font-size: 16px;
+  color: navy;
+}
+
+.newTextHTML {
+  color: brown;
+}
+
+.noTexto {
+  color: orange;
+  font-size: 14px;
+}
+
+.time {
+  font-size: 20px;
+  color: darkmagenta;
+}
+
+.alert {
+  background-color: lightcoral;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
